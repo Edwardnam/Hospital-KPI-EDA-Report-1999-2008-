@@ -1,6 +1,6 @@
 # 🏥 Hospital KPI & EDA Report (1999–2008)
 ![Hospital KPI Dashboard](assets/dashboard.png)
-
+ 
 ## 📌 Project Background  
 As a Data Analyst, I developed a high-level KPI and exploratory data analysis (EDA) dashboard using the **Diabetes 130-US Hospitals dataset**, which spans **ten years of clinical care (1999–2008) across 130 hospitals and integrated delivery networks in the United States**. The dataset includes **101,766 patient encounters** diagnosed with diabetes, with each record containing demographics, admission type, discharge disposition, lab results, medications, and readmission outcomes.  
 
