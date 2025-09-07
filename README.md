@@ -17,7 +17,7 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ##  Insights Deep-Dive  
 
-### 🧾 Patient Admissions & Readmissions  
+###  Patient Admissions & Readmissions  
 - **Emergency admissions dominate (~35%)**, showing high reliance on acute care.  
 - **14% of patients are readmitted within 30 days**, with the highest share coming from **seniors (60–80 years)**.  
 - Younger patients (0–40) show the **lowest readmission rates**, while older adults drive the majority of repeat visits.  
@@ -25,7 +25,7 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ---
 
-### ⏱ Length of Stay  
+###  Length of Stay  
 - The **average hospital stay is ~4.5 days**, but readmitted patients consistently show longer durations.  
 - Trauma-related admissions average **~5 days**, the longest of all groups, while newborn cases average just **2–3 days**.  
    Monitoring patients with **extended stays may provide early warning signals** for readmission risk.  
@@ -48,7 +48,7 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ---
 
-## ✅ Recommendations  
+##  Recommendations  
 1. **Expand Insurance Coverage** – Target the uninsured population (~40%) to reduce financial burden and ensure equitable access.  
 2. **Prioritize Senior Diabetes Care** – Focus interventions on the 60–80 age group, where readmission rates are highest.  
 3. **Improve Emergency Care Capacity** – Given that emergency cases dominate, streamline triage and outpatient referral pathways.  
@@ -57,7 +57,7 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ---
 
-## ❓ Key Questions for Stakeholders  
+##  Key Questions for Stakeholders  
 - Should readmissions be measured strictly within **30 days**, or also include **60–90 days** for chronic diabetic patients?  
 - Do readmissions need to be linked to the **same medical condition** as the prior visit, or any cause?  
 - How should **multiple entries within 24 hours** be treated (new encounter vs continuation of prior stay)?  
@@ -65,7 +65,7 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ---
 
-## ⚠️ Assumptions & Caveats  
+##  Assumptions & Caveats  
 - Readmission is measured at a **30-day interval**.  
 - Dataset is **synthetic but based on real hospital patterns** across 130 US institutions.  
 - Cost data was **not included**; analysis instead used stay durations, readmissions, and insurance coverage as proxies.  
@@ -73,5 +73,5 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 
 ---
 
-## 🌐 General Info  
+##  General Info  
 For more about my projects and data journey, visit my  **[LinkedIn](https://www.linkedin.com/in/nam-ngo-b48780206/)**.
