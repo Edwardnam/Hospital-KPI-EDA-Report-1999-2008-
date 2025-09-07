@@ -2,7 +2,7 @@
 ![Hospital Dashboard](dashboard.png)
   
 ## 📌 Project Background  
-As a Data Analyst, I developed a high-level KPI and exploratory data analysis (EDA) dashboard using the **Diabetes 130-US Hospitals dataset**, which spans **ten years of clinical care (1999–2008) across 130 hospitals and integrated delivery networks in the United States**. The dataset includes **101,766 patient encounters** diagnosed with diabetes, with each record containing demographics, admission type, discharge disposition, lab results, medications, and readmission outcomes.  
+As a Data Analyst, I developed a  KPI and exploratory data analysis (EDA) dashboard using the **Diabetes 130-US Hospitals dataset**, which spans **ten years of clinical care (1999–2008) across 130 hospitals and integrated delivery networks in the United States**. The dataset includes **101,766 patient encounters** diagnosed with diabetes, with each record containing demographics, admission type, discharge disposition, lab results, medications, and readmission outcomes.  
 
 The goal of this analysis was to uncover **patterns in admissions, readmissions, stay durations, and insurance coverage** to support hospital decision-making. This problem is critical because inadequate diabetes management in hospital settings leads to higher costs, increased readmission rates, and worsened morbidity and mortality among patients.  
 
@@ -74,4 +74,4 @@ These insights highlight opportunities for hospitals to **improve care coordinat
 ---
 
 ## 🌐 General Info  
-For more about my projects and data journey, visit my **Portfolio**.  
+For more about my projects and data journey, visit my  **[LinkedIn](https://www.linkedin.com/in/nam-ngo-b48780206/)**.
